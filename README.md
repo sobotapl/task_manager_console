@@ -1,2 +1,2 @@
-# task_manager_console
+# console task manager
 Simple console task manager
